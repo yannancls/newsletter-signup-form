@@ -1,5 +1,5 @@
 import React from 'react'
-import { BrowserRouter, Route, createBrowserRouter, createRoutesFromElements, RouterProvider } from 'react-router-dom'
+import { Route, createBrowserRouter, createRoutesFromElements, RouterProvider } from 'react-router-dom'
 import MainPage from './pages/MainPage'
 import SuccessPage from './pages/SuccessPage'
 
